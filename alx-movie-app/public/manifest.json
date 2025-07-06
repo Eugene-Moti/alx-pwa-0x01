@@ -15,7 +15,7 @@
     },
     {
       "src": "/icons/ms-icon-310x310.png",
-      "sizes": "180x180",
+      "sizes": "310x310",
       "type": "image/png"
     }
   ],
@@ -25,3 +25,4 @@
   "display": "standalone",
   "orientation": "portrait"
 }
+
